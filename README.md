@@ -6,6 +6,9 @@ Vaults work by encrypting each secret to help prevent unauthorized users from ga
 
 <br>
 
+Flatpak package : https://drive.proton.me/urls/T62DDK71SM#p29umXTq17rl
+
+
 <B> Installation Command: </b>
 
         sudo apt  install gocryptfs -y
