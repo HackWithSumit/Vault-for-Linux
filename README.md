@@ -17,7 +17,7 @@ Vaults work by encrypting each secret to help prevent unauthorized users from ga
 
 <br>         
          
-         flatpak install https://dl.flathub.org/repo/appstream/io.github.mpobaschnig.Vaults.flatpakref
+        flatpak install https://dl.flathub.org/repo/appstream/io.github.mpobaschnig.Vaults.flatpakref
          
 
 <br>
